@@ -1,0 +1,19 @@
+exceed;превосходить
+hack;взлом
+node;вершина
+nodes;вершина
+set of input data;набор входных данных
+statement;условие
+problem;задача
+Easy Version;простая версия
+undirected connected graph;связный неориентированный граф
+Each test consists of several sets of input data. The first line contains one integer $t$;Каждый тест состоит из нескольких наборов входных данных. В первой строке находится одно целое число $t$
+The description of the input data sets follows.;Далее следует описание наборов входных данных.
+binary string;бинарная строка
+print;выведите
+positive integer;целое положительное число
+non-negative integer;целое неотрицательное число
+subsegment;подотрезок
+partition;разбиение
+concatenation;конкатенация
+it is guaranteed that;гарантируется что
