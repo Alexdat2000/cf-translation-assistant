@@ -40,6 +40,6 @@ def send_request_raw(texts):
 def send_request(texts):
     response = send_request_raw(texts)
     if 'translations' in response:
-        return response['translations']
+        return response['translations'][0]['text']
     iam_token.renew()
-    return send_request_raw(texts)['translations']
+    return send_request_raw(texts)['translations'][0]['text']
